@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @InvisibleDerakhshan
-- 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning Asp.net core.
-- 📫 How to reach me 
-you can use my email to contact me : mohigold8@gmail.com
+👋 Hi, I’m Derakhshan  
+
+💻 I’m a .NET Developer passionate about building modern web applications.  
+🎓 I hold a **Master’s degree in Network Engineering** and have strong expertise in **network technologies**.  
+🚀 Currently focusing on **ASP.NET Core** and **Entity Framework Core**.  
+📚 Experienced with **ASP.NET MVC (Framework)**, **Windows Forms**, and **Console Applications**.  
+🎯 My goal is to become a **Cloud & Security-focused Software Engineer**.  
+
+🔗 Check out my pinned repositories below!
+
 
 <!---
 InvisibleDerakhshan/InvisibleDerakhshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
